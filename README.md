@@ -1,4 +1,4 @@
-# ![image](https://github.com/user-attachments/assets/96bd0106-028c-4b78-9e5b-76e4f1121d73)
+# ![image](https://github.com/user-attachments/assets/8836d507-d491-475c-9ff9-1c7c83dc36c4)
  Pizza Sales Analysis Project
 
 # Introduction
